@@ -208,7 +208,6 @@ const config = {
         }),
 
     plugins: [
-
       require("./plugins/swm-geo"),
         ['@docusaurus/plugin-client-redirects', {
             redirects: [
